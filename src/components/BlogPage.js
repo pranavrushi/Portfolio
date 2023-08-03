@@ -20,7 +20,7 @@ background-attachment: fixed;
 background-position: center;
 `
 const Container = styled.div`
-background-color: ${props => `rgba(${props.theme.bodyRgba},0.75)`};
+background-color: ${props => `rgba(${props.theme.bodyRgba},1)`};
 width: 100%;
 height:auto;
 
