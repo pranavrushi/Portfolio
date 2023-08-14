@@ -10,6 +10,16 @@ export const Work = [
         medium:"https://medium.com/@virinchithinks/the-arima-model-consists-of-three-main-components-ar-i-and-ma-let-me-explain-each-one-briefly-cc2e5aeedf2e",
         github:"https://github.com/pranavrushi/ARIMA-Forecasting"
     },
+    {
+        id:2,
+        name:"Personal Portfolio Manager",
+        description:"Stock Market Portfolio Management Tool",
+        tags:["Excel"],
+        
+        // demo:"",
+        github:"https://github.com/pranavrushi/Portfolio-Manager"
+        
+    },
     // {
     //     id:2,
     //     name:"",
