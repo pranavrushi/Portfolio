@@ -12,6 +12,16 @@ export const Work = [
     },
     {
         id:2,
+        name:"OTT DASH",
+        description:"A PowerBi Dashboard which provides information about the content in the specific platform",
+        tags:["POWERBI"],
+        
+        demo:"",
+        github:""
+        
+    },
+    {
+        id:3,
         name:"Personal Portfolio Manager",
         description:"Stock Market Portfolio Management Tool",
         tags:["Excel"],
@@ -20,16 +30,7 @@ export const Work = [
         github:"https://github.com/pranavrushi/Portfolio-Manager"
         
     },
-    // {
-    //     id:2,
-    //     name:"",
-    //     description:"",
-    //     tags:[],
-        
-    //     demo:"",
-    //     github:""
-        
-    // },
+
     // {
     //     id:3,
     //     name:"Dev.to Clone",
