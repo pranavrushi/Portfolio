@@ -125,28 +125,30 @@ Data Analysis,Data Visualization, SQL, Python, Problem Solving, Web Scraping, AP
     <Develope width={40} height={40} /> My Skills
 </Title>
 <Description>
-I am passionate about solving analytical problems with precision and creating interesting websites. 
+I am passionate about solving analytical problems with precision and creating interesting solutions. 
 </Description>
 <Description>
 <strong>Skills</strong>
 {/* <p>
 Data Analysis,Data Visualization, SQL, Python, Problem Solving, Web Scraping, API Management, Cloud Computing .
-</p> */}
+</p> */}e
 <ul>
     <li>
-    Data Analysis, Data Visualization, SQL, Python, Problem Solving, Web Scraping, API Development, Cloud Computing , Cyber Security.
+    Eager to learn, Self-motivated, Hardworking, Organized, Detail-oriented, Problem Solving, Teamwork, Critical Thinking
     </li>
     <li>
-    Frontend Development, Database Development,  HTML/CSS/JavaScript, React.js, Node.js, Bootstrap, Version Control, Continuous Integration/Deployment, SEO Management.
-    {/* Frontend Development, Backend Development, Database Management, HTML/CSS, JavaScript, React, Angular, Node.js, Express.js, Python, Django, Ruby, Ruby on Rails, PHP, Laravel, Database (SQL/NoSQL), API Development, Version Control (Git), UI/UX Design, Testing and Debugging, Problem-Solving, Agile Methodology, Project Management, Continuous Integration/Deployment. */}
+    Data Analysis, Data Visualization, SQL, Python, Problem Solving, Web Scraping, API Development.
     </li>
-    
+    {/* <li>
+    {/* Frontend Development, Database Development,  HTML/CSS/JavaScript, React.js, Node.js, Bootstrap, Version Control, Continuous Integration/Deployment, SEO Management. */}
+    {/* Frontend Development, Backend Development, Database Management, HTML/CSS, JavaScript, React, Angular, Node.js, Express.js, Python, Django, Ruby, Ruby on Rails, PHP, Laravel, Database (SQL/NoSQL), API Development, Version Control (Git), UI/UX Design, Testing and Debugging, Problem-Solving, Agile Methodology, Project Management, Continuous Integration/Deployment. */ }
+
 </ul>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-    VScode, Python, Numpy, Pandas, Scikit-learn,, Excel, PowerBi, Tableau, SQL, GIT, AWS .
+    VScode, Python, Numpy, Pandas, Scikit-learn,, Excel, PowerBi, Tableau, SQL, GIT.
 </p>
 </Description>
 {/* <Title>

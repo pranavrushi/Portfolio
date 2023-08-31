@@ -3,18 +3,18 @@
 export const Work = [
     {
         id:1,
-        name:"Forecasting using ARIMA",
-        description:"Analysis of sales of Perrin Freres Champagne sales using ARIMA ",
-        tags:["Machine Learning","ARIMA"],
+        name:"Inventory Management System",
+        description:"A Tool used to manage the count of inventory. ",
+        tags:["Excel","Google Forms"],
         
-        medium:"https://medium.com/@virinchithinks/the-arima-model-consists-of-three-main-components-ar-i-and-ma-let-me-explain-each-one-briefly-cc2e5aeedf2e",
-        github:"https://github.com/pranavrushi/ARIMA-Forecasting"
+        medium:"",
+        github:""
     },
     {
         id:2,
-        name:"OTT DASH",
-        description:"A PowerBi Dashboard which provides information about the content in the specific platform",
-        tags:["POWERBI"],
+        name:"Crypto - Dashboard",
+        description:"A PowerBi Dashboard which provides information about the cryptocurrencies.",
+        tags:["PowerBi"],
         
         demo:"",
         github:""
@@ -31,15 +31,15 @@ export const Work = [
         
     },
 
-    // {
-    //     id:3,
-    //     name:"Dev.to Clone",
-    //     description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-    //     tags:["react","api","sass"],
+    {
+        id:4,
+        name:"EDA - Movie Industry",
+        description:"An Exploratory Data Analysis of Movie Industry using Python and its Libraries",
+        tags:["Python","SQL"],
         
-    //     demo:"http://devto-clone-codebucks27.vercel.app/",
-    //     github:"https://github.com/codebucks27/devto-clone"
-    // },
+        demo:"",
+        github:""
+    },
     // {
     //     id:4,
     //     name:"Sidebar Menu",
